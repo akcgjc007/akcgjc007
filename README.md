@@ -1,4 +1,4 @@
-### Ahoj folks 👋
+# Ahoj folks! 👋
 - 🔭 I’m currently working on <b>smart contract development and decentralized applications</b>.
 - 🌱 I’m currently learning about <b>react web applications</b> and <b>DevOps</b>.
 - 👯 I’m willing to collaborate on <b>ethereum</b> and <b>blockchain</b> related projects.
@@ -10,8 +10,4 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akcgjc007&theme=blue-green)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007/github-readme-stats)
-
-
-
-
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
