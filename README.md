@@ -1,7 +1,4 @@
 ### Ahoj folks 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <b>smart contract development and decentralized applications</b>.
 - 🌱 I’m currently learning about <b>react web applications</b> and <b>DevOps</b>.
 - 👯 I’m willing to collaborate on <b>ethereum</b> and <b>blockchain</b> related projects.
@@ -10,3 +7,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: `akcgjc007@gmail.com`
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: <b>Scared of dogs, cats, mices and anything that can fly.</b>
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akcgjc007&theme=blue-green)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007/github-readme-stats)
+
+
+
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
