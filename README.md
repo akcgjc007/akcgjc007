@@ -4,7 +4,7 @@
 - 👯 I’m willing to collaborate on <b>ethereum</b> and <b>crypto</b> related projects.
 - 🤔 I’m looking for a <b>crypto based internship</b> around <b>May-2021 to July-2021</b>.
 - 💬 Ask me about future technologies and <b>C++</b>
-- 📫 How to reach me: `anupam.kumar@iitgn.ac.in`
+- 📫 How to reach me: `anupam.kumar@iitgn.ac.in`, [telegram me](https://t.me/akcgjc007)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Scared of <ins>dogs, mices, anything that can fly</ins>
 
