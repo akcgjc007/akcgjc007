@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Scared of <ins>dogs, mices, anything that can fly</ins>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akcgjc007&theme=blue-green)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)]()
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
