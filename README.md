@@ -1,6 +1,7 @@
 # Ahoj folks! 👋
 - 🔭 I’m currently working on <b>Smart contract development</b> & <b>Decentralized applications</b>.
-- 🌱 I’m currently learning about  <b>Web development with React</b> & <b>DevOps</b>.
+- 🌱 I’m currently learning about <b>Compilers</b>, <b>MySQL</b>, <b>Web development with React</b> and <b>DevOps</b>.
+- 🏋️ My current projects are <b>Decentralized Prediction Markets</b> and <b>Captcha recognition with Machine Learning</b>.
 - 👯 I’m willing to collaborate on <b>ethereum</b> and <b>crypto</b> related projects.
 - 🤔 I’m looking for an <b>internship</b> around <b>May-2021 to July-2021</b>.
 - 💬 Ask me about future technologies and <b>C++</b>
