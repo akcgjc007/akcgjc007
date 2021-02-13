@@ -14,8 +14,8 @@
 - ℹ️Ⓜ️: Against <ins>animal cruelty</ins>, <i>hopeful romantic</i>, theist. 
 - ⚡ Fun fact: Scared of <ins>dogs, mices, anything that can fly</ins>
 
-<b>Check out my portfolio</b>: [pAM](http://akcgjc007.github.io/)
+<h3><b>Check out my portfolio</b></h3>
+<h1>[***akcgjc007.github.io***](http://akcgjc007.github.io/)</h1>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akcgjc007&theme=blue-green)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/akcgjc007)
+[![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007)
