@@ -15,7 +15,7 @@
 - ⚡ Fun fact: Scared of <ins>dogs, mices, anything that can fly</ins>
 
 <h3><b>Check out my portfolio</b></h3>
-<h1>[***akcgjc007.github.io***](http://akcgjc007.github.io/)</h1>
+<h1><a href="www.google.com">akcgjc007.github.io</a><h1>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akcgjc007&theme=blue-green)
 [![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=akcgjc007&theme=blue-green)](https://github.com/akcgjc007)
