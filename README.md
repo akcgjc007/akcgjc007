@@ -1,4 +1,4 @@
-# Ahoj folks! 👋
+# Howdy folks! 👋
 - 🔭 I’m currently working on:
   - <b>Smart contract development</b>
   - <b>Crypto based decentralized applications</b>.
