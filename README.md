@@ -8,10 +8,11 @@
   - <b>Web development with React</b>
   - <b>DevOps</b>.
 - 🏋️ My current projects are 
-  - <b>Decentralized Prediction Markets on Matic</b>
-  - <b>Captcha recognition with Neural networks</b>.
+  - <b>Defi app based on AAVE, Chainlink oracles, Moonbeam on React.js, GraphQL</b>
+  - <b>Captcha recognition with Neural networks</b>
+  - <b>YACC</b> based compiler
+  - Data science based research paper
 - 👯 I’m willing to collaborate on <b>ethereum</b> and <b>crypto</b> based projects.
-- 🤔 I’m looking for an <b>internship</b> around <b>May-2021 to July-2021</b>.
 - 💬 Ask me about future technologies and <b>C++</b>
 - 📫 How to reach me:
   - Email-id: [**anupam.kumar@iitgn.ac.in**](mailto:anupam.kumar@iitgn.ac.in)
