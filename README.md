@@ -3,10 +3,10 @@
   - <b>Smart contract development</b>
   - <b>Crypto based decentralized applications</b>.
 - 🌱 I’m currently learning about: 
-  - <b>Compilers</b>
-  - <b>MySQL</b>
-  - <b>Web development with React</b>
-  - <b>DevOps</b>.
+  - <b>Compiler design</b>
+  - <b>MySQL & PostgreSQL</b>
+  - <b>MERN based Full stack web development</b>
+  - <b>DevOps & Docker containers</b>.
 - 🏋️ My current projects are 
   - <b>Defi app based on AAVE, Chainlink oracles, Moonbeam on React.js, GraphQL</b>
   - <b>Captcha recognition with Neural networks</b>
