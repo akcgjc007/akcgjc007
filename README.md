@@ -1,4 +1,7 @@
 # Howdy folks! 👋
+- 😛 I am
+  - prefinal year college student(Graduation @ April 2021)
+  - 21yo 5'10" Indian male
 - 🔭 I’m currently working on:
   - <b>Smart contract development</b>
   - <b>Crypto based decentralized applications</b>.
