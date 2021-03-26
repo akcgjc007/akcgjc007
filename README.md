@@ -11,7 +11,7 @@
   - <b>MERN based Full stack web development</b>
   - <b>DevOps & Docker containers</b>.
 - 🏋️ My current projects are 
-  - <b>Defi app based on AAVE, Chainlink oracles, Moonbeam on React.js, GraphQL</b>
+  - <b>Defi app based on AAVE, Chainlink oracles on L2</b>
   - <b>Captcha recognition with Neural networks</b>
   - <b>YACC</b> based compiler
   - Data science based research paper
