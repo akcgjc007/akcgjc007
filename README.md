@@ -7,7 +7,6 @@
   - <b>Crypto based decentralized applications</b>.
 - 🌱 I’m currently learning about: 
   - <b>DevOps & Docker containers</b>.
-- 💬 Ask me about future technologies and <b>C++</b>
 - 📫 How to reach me:
   - Email-id: [**anupam.kumar@iitgn.ac.in**](mailto:anupam.kumar@iitgn.ac.in)
   - Telegram: [**akcgjc007**](https://t.me/akcgjc007)
