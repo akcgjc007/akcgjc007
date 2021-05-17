@@ -4,7 +4,6 @@
   - 21yo 5'10" Indian male
 - 🔭 I’m currently working on:
   - <b>[RUST](https://www.rust-lang.org/) based smart contract development on [Terra](https://www.terra.money/)</b>
-  - <b>Crypto based decentralized applications</b>.
 - 🌱 I’m currently learning about: 
   - <b>DevOps & Docker containers</b>.
 - 📫 How to reach me:
