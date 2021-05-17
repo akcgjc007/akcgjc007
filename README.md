@@ -6,12 +6,13 @@
   - <b>[RUST](https://www.rust-lang.org/) based smart contract development on [Terra](https://www.terra.money/)</b>
 - 🌱 I’m currently learning about: 
   - <b>DevOps & Docker containers</b>.
+  - Living with humans.
 - 📫 How to reach me:
   - Email-id: [**anupam.kumar@iitgn.ac.in**](mailto:anupam.kumar@iitgn.ac.in)
   - Telegram: [**akcgjc007**](https://t.me/akcgjc007)
 - 😄 Pronouns: He/Him
 - ℹ️Ⓜ️: Against <ins>animal cruelty</ins>, <i>hopeful romantic</i>, theist.
-- ⚡ Fun fact: Scared of <ins>dogs, mices, anything that can fly</ins>
+- ⚡ Fun fact: Enjoy fighting, love social experiments.
 
 <h3><b>Check out my portfolio</b></h3>
 <h1><a href="https://akcgjc007.github.io/">akcgjc007.github.io</a><h1>
