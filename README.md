@@ -14,7 +14,7 @@
   - Email-id: [**anupam.kumar@iitgn.ac.in**](mailto:anupam.kumar@iitgn.ac.in)
   - Telegram: [**akcgjc007**](https://t.me/akcgjc007)
 - ℹ️Ⓜ️: Against <ins>animal cruelty</ins>, <i>hopeful romantic</i>, theist.
-- ⚡ Fun fact: Fantasize 😊 about eating snakes 🐍.
+- ⚡ Fun fact: Fantasize 😊 about spotting snakes 🐍.
 
 <h3><b>Check out my portfolio</b></h3>
 <h1><a href="https://akcgjc007.github.io/">akcgjc007.github.io</a><h1>
