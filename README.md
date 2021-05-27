@@ -3,9 +3,10 @@
   - prefinal year college student(Graduation @ April 2022).
   - 21yo 5'10" Indian male.
 - 🔭 I’m currently working on:
-  - [RUST](https://www.rust-lang.org/).
-  - [Cosmwasm](https://cosmwasm.com/).
+  - [Rust](https://www.rust-lang.org/).
   - [Terra](https://www.terra.money/).
+  - [Cosmwasm](https://cosmwasm.com/).
+  
 - 🌱 I’m currently learning about: 
   - <b>DevOps & Docker containers</b>.
   - Human relationships.
