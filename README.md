@@ -1,7 +1,7 @@
 # Howdy folks! 👋
 
 ## 😛 I am
-  - prefinal year college student(Graduation @ April 2022).
+  - Final year undergrad(Graduation @ April 2022).
   - 21yo 5'10" Indian male.
 
 ## 🔭 I’m currently working on:
